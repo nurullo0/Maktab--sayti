@@ -1,0 +1,168 @@
+.btn--blue.js-is-busy,
+.btn--blue.js-is-busy:hover,
+.btn--blue.js-is-busy:focus,
+.btn--blue.js-is-busy:active {
+	background: #9bcade;
+	color: #eaeaea;
+}
+
+.btn--blue:hover,
+.btn--blue:focus {
+	animation-name: backward;
+	animation-duration: 0.3s;
+	animation-fill-mode: forwards;
+}
+
+.js-form-success {
+	color: green;
+	text-align: center;
+	margin-top: 25px;
+}
+
+.js-hidden {
+	display: none;
+}
+
+.rhombus__icon-plus:before,
+.rhombus__icon-plus:after {
+
+}
+
+.b-soc__item img {
+	width: 1em;
+	height: 1em;
+}
+
+.two-image-box {
+
+}
+
+.item-news:hover .item-news__descr {
+	min-height: 1px;
+}
+
+.header__action-btn {
+	font-size: 11px;
+	border-width: 2px;
+}
+
+@media (min-width: 768px) {
+	.header__action-btn {
+		padding: 0 15px;
+		font-size: 12px
+	}
+}
+
+.b-news__particle--line-orange,
+.b-news__particle--line-yellow {
+	transform-origin: left;
+}
+
+.b-news__particle--line-orange {
+	top: 120px;
+	margin-left: -186px;
+}
+
+.b-news__particle--line-yellow {
+	bottom: -30px;
+	margin-left: 35px;
+}
+
+.steps__particle--lines {
+	bottom: -50px;
+	margin-left: -80px;
+	transform-origin: left;
+}
+
+.b-partners__particle--line-purple {
+	bottom: -20px;
+	margin-left: -63px;
+	transform-origin: left;
+}
+
+.top-block__title {
+	margin-bottom: 20px;
+}
+
+.item-projects:hover img {
+	box-shadow: 0 7px 26px rgba(0, 0, 0, 0.26);
+}
+
+.item-projects__img-wrap img {
+	transition: box-shadow 0.5s ease;
+}
+
+.item-projects__img-wrap:hover::before {
+	opacity: 0;
+}
+
+@media (min-width: 768px) {
+	.top-block__title {
+		margin-bottom: 40px;
+	}
+
+	.steps__particle--lines {
+		margin-left: 270px;
+	}
+
+	.b-partners__particle--line-purple {
+		bottom: -25px;
+		margin-left: 60px;
+	}
+}
+
+@media (min-width: 992px) {
+	.top-nav__item {
+		margin: 0 15px;
+	}
+
+	.top-block__title {
+		margin-bottom: 60px;
+	}
+
+	.b-partners__particle--line-purple {
+		bottom: -30px;
+		margin-left: 200px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.steps__particle--lines {
+		margin-left: 430px;
+	}
+}
+
+@keyframes backward {
+	from {
+		transform: translateX(0);
+	}
+
+	to {
+		transform: translateX(-8px);
+	}
+}
+
+.header__version-btn {
+	padding: 0;
+	min-width: 36px;
+	height: 36px;
+	border-width: 2px
+}
+
+.header__version-btn--mob {
+	margin-top: 14px
+}
+
+.header__version-btn:hover, .header__version-btn:focus {
+	background-color: #65B337
+}
+
+.header__version-btn:hover svg, .header__version-btn:focus svg {
+	fill: #fff
+}
+
+@media (min-width: 768px) {
+	.b-soc__inner {
+		margin: -20px -10px 0
+	}
+}

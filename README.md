@@ -1,0 +1,2 @@
+# Maktab--sayti
+ Maktab uchun

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 107.998" width="108" height="108">
+	<defs>
+		<style>
+		.a {
+			fill: #00a0e3
+		}
+
+		.c {
+			fill: #fab700
+		}
+
+		.d {
+			fill: #f18c16
+		}
+
+		.e {
+			fill: #eb5b47
+		}
+
+		.f {
+			fill: #65b337
+		}
+
+		.h {
+			fill: #b9a8d2
+		}
+
+		</style>
+	</defs>
+	<path class="a" d="M10.801 32.399H0V0h10.8zM32.404 32.399h-10.8V0h10.8z" />
+	<path d="M0 10.802V.002h32.4v10.8z" fill="#3763ab" />
+	<path class="c" d="M10.801 107.998H0v-32.4h10.8zM32.404 107.998h-10.8v-32.4h10.8z" />
+	<path class="d" d="M0 97.196v-10.8h32.4v10.8z" />
+	<path class="e" d="M70.202 16.201a16.2 16.2 0 1 1-16.2-16.2 16.2 16.2 0 0 1 16.2 16.2z" />
+	<path class="f" d="M32.404 54.001a16.2 16.2 0 1 1-16.2-16.2 16.2 16.2 0 0 1 16.2 16.2z" />
+	<path d="M108 .002H75.6v32.4z" fill="#ffd100" />
+	<path class="d" d="M108 32.399H75.6V.002z" />
+	<path class="a" d="M37.801 70.2h32.4V37.8z" />
+	<g>
+		<path class="h" d="M107.998 59.4v10.8h-32.4V59.4zM107.998 37.801v10.8h-32.4v-10.8z" />
+		<path d="M75.601 70.2l16.2-16.2-16.2-16.2z" fill="#7362a7" />
+	</g>
+	<g>
+		<path class="f" d="M107.998 97.196v10.8h-32.4v-10.8zM107.998 75.599v10.8h-32.4v-10.8z" />
+		<path d="M75.601 107.998l16.2-16.2-16.2-16.2z" fill="#b7cd1a" />
+	</g>
+	<g>
+		<path class="c" d="M48.602 107.998h-10.8v-32.4h10.8z" />
+		<path class="e" d="M37.801 107.998h32.4v-32.4z" />
+	</g>
+</svg>
