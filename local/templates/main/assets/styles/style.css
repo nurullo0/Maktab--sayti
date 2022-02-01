@@ -2698,8 +2698,8 @@ body {
     }
 }
 
-.footer__logo #footer__img-logo {
-    width: 180px
+.footer__logo img {
+    width: 108px
 }
 
 @media (min-width: 768px) {
