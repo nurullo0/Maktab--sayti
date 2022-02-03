@@ -524,7 +524,7 @@ var myApp = {
 				// Необходимо указать данный тип макета.
 				iconLayout: 'default#image',
 				// Своё изображение иконки метки.
-				iconImageHref: 'local/templates/main/assets/img/theme/map-marker.svg',
+				iconImageHref: 'images/icons/Maktab.svg',
 				// Размеры метки.
 				iconImageSize: [31, 49]
 				// Смещение левого верхнего угла иконки относительно
